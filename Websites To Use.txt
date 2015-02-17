@@ -10,3 +10,6 @@ Twitter
 Instagram
 Tumblr
 Reddit
+Toggl
+Asana
+TimelyApp
