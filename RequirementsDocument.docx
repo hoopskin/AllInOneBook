@@ -6,10 +6,19 @@ Anish
 
 User Requirements
 Anish
-
+* Functional Requirements
+* Non-functional Requirements
 System Requirements
 Lorem Ipsum
-
+* Functional Requirements
+o User can decide which website’s information are displayed
+o User can decide which channels on a website are displayed
+* Think choosing with YouTube channels, Twitter accounts, etc.
+o User can save preferences
+o User can login and see same information
+* Non-functional Requirements
+o Page shouldn’t have to refresh to get new information (live view)
+o Shouldn’t slow down a computer
 System Evolution
 Lorem Ipsum
 
