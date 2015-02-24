@@ -1,8 +1,12 @@
 List of Competition - Ilma
  - Other aggregate websites & just going to each one individually
-How are we storing passwords - Alex
+How are we storing passwords - Alex - DONE
 Which websites users have to log into and verify account (e.g. Facebook) - Anish
 Say which ones we know the APIs for and want in V1, V2, etc. - John
  - Add to system evolution for ones to add later
  - List of websites to add for sure
 Fix Spelling Errors - Alex
+
+From Hardwick’s version
+Add which web technologies we’re planning on using
+Add what we want to expand to later in evolution
